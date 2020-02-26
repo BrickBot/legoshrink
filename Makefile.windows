@@ -1,0 +1,9 @@
+
+all: legoshrink
+
+legoshrink:	legoshrink.c rcx_comm.c
+	$(CC) $^ -o $@ -O2 -Wall -D_WIN32
+
+clean:
+	rm -f *.o *~ *.bak legoshrink
+
