@@ -1,4 +1,7 @@
-# legoshrink
+# legOShrink
+
+#### NOTE: This project has been incorporated into [brickOS-bibo](https://github.com/BrickBot/brickOS-bibo) as lnpmsg.
+
 
 [Archived Website](http://web.archive.org/web/20070825203927/http://tarpit.rmc.ca/lesauvage/eee243/labs/resources/legoshrink.html)
 
