@@ -1,7 +1,13 @@
+> ## DEPRECATION NOTICE:
+> This project has been incorporated into [brickOS-bibo](https://github.com/BrickBot/brickOS-bibo) as lnpmsg.
+> The executables released as part of this project should still be compatible, but any future enhancements will
+> be targeted towards lnpmsg in the [brickOS-bibo](https://github.com/BrickBot/brickOS-bibo) project.
+> 
+> As such, this project is deprecated and has been archived.  Please direct any issues or discussion to the superseding [brickOS-bibo](https://github.com/BrickBot/BrickOS-Bibo) project.
+
+&nbsp;
+
 # legOShrink
-
-#### NOTE: This project has been incorporated into [brickOS-bibo](https://github.com/BrickBot/brickOS-bibo) as lnpmsg.
-
 
 [Archived Website](http://web.archive.org/web/20070825203927/http://tarpit.rmc.ca/lesauvage/eee243/labs/resources/legoshrink.html)
 
