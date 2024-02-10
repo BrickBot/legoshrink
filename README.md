@@ -1,3 +1,4 @@
+> [!IMPORTANT]
 > ## DEPRECATION NOTICE:
 > This project has been incorporated into [brickOS-bibo](https://github.com/BrickBot/brickOS-bibo) as lnpmsg.
 > The executables released as part of this project should still be compatible, but any future enhancements will
